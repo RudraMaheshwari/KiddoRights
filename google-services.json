@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "479099950095",
+    "project_id": "kiddorights2001",
+    "storage_bucket": "kiddorights2001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479099950095:android:bb07b5e8d1eea469563f7a",
+        "android_client_info": {
+          "package_name": "com.company.Kiddorights"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_rsop7P52J4zkpo8n8gTxlUCyArd2BUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
